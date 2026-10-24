@@ -1,15 +1,37 @@
 body {
     background-color: #eed2e8;
+    font-family:cursive;
 }
 .head {
     background-color: #A483C2;
     margin: 5%;
     padding:5%;
-    border-radius: 5%;
+    border-radius: 10px;
     text-align: center;
     color: #431965;
 }
 img {
     height: 100px;
     border-radius: 10px;
+}
+.hobbies {
+    background-color: #A483C2;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 10px;
+    color:#431965;
+}
+.contact {
+    background-color: #A483C2;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 10px;
+    color:#431965;
+}
+.facts {
+    background-color: #A483C2;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 10px;
+    color:#431965;
 }
